@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palomino-japan.co.jp/sitemap.xml
